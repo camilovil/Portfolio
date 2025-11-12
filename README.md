@@ -85,58 +85,6 @@ Múltiples formas de contacto:
 
 ---
 
-## 🚀 Instalación y Uso
-
-### Prerrequisitos
-- Node.js (v14 o superior)
-- npm o yarn
-
-### Instalación
-
-```bash
-# Clonar el repositorio
-git clone https://github.com/camilovil/portfolio.git
-
-# Entrar al directorio
-cd portfolio
-
-# Instalar dependencias
-npm install
-
-# Iniciar servidor de desarrollo
-npm start
-```
-
-El proyecto estará disponible en `http://localhost:3000`
-
-### Build para producción
-
-```bash
-npm run build
-```
-
-Esto generará una carpeta `build/` lista para deployment.
-
----
-
-## 🌐 Deployment
-
-### Opción 1: Vercel (Recomendado)
-1. Conectá tu repositorio de GitHub a Vercel
-2. Deploy automático en cada push
-
-### Opción 2: Netlify
-1. Conectá tu repo o arrastra la carpeta `build/`
-2. Deploy automático configurado
-
-### Opción 3: GitHub Pages
-```bash
-npm install gh-pages --save-dev
-npm run deploy
-```
-
----
-
 ## 🎨 Personalización
 
 ### Colores principales
@@ -227,10 +175,5 @@ Este proyecto es de código abierto bajo la licencia MIT.
 - Iconos por [Lucide React](https://lucide.dev/)
 - Imágenes temporales de [Unsplash](https://unsplash.com/)
 
----
-
-⭐ **Si te gusta este proyecto, dejá una estrella en GitHub!**
-
----
 
 *Última actualización: Noviembre 2024*
