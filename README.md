@@ -2,7 +2,7 @@
 
 Portfolio profesional desarrollado en React, mostrando proyectos de desarrollo web, automatización, análisis de sistemas y diseño gráfico.
 
-🔗 **[Ver Portfolio en vivo](#)** *(agregar link cuando esté deployado)*
+🔗 **[Ver Portfolio en vivo](#)**
 
 ---
 
