@@ -4,8 +4,6 @@ Portfolio profesional desarrollado en React, mostrando proyectos de desarrollo w
 
 🔗 **[Ver Portfolio en vivo](#)**
 
----
-
 ## 🚀 Características
 
 - ✨ **Diseño moderno** con animaciones suaves y profesionales
@@ -15,16 +13,12 @@ Portfolio profesional desarrollado en React, mostrando proyectos de desarrollo w
 - ⚡ **Performance optimizado** con React y Tailwind CSS
 - 🔍 **SEO friendly** con estructura semántica
 
----
-
 ## 🛠️ Tecnologías Utilizadas
 
 - **React** - Framework principal
 - **Tailwind CSS** - Estilos y diseño
 - **Lucide React** - Iconos
 - **JavaScript ES6+** - Lógica y funcionalidad
-
----
 
 ## 📂 Estructura del Proyecto
 
