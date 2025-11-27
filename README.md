@@ -20,6 +20,7 @@ Portfolio profesional desarrollado en React, mostrando proyectos de desarrollo w
 - **Lucide React** - Iconos
 - **JavaScript ES6+** - Lógica y funcionalidad
 
+
 ## 📂 Estructura del Proyecto
 
 ```
