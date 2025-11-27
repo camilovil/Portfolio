@@ -2,7 +2,7 @@
 
 Portfolio profesional desarrollado en React, mostrando proyectos de desarrollo web, automatización, análisis de sistemas y diseño gráfico.
 
-🔗 **[Ver Portfolio en vivo](#)**
+🔗 Portfolio
 
 ## 🚀 Características
 
@@ -33,7 +33,6 @@ portfolio/
 ├── package.json
 └── README.md
 ```
-
 ---
 
 ## 🎯 Secciones
