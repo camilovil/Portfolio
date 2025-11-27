@@ -148,7 +148,7 @@ Este es un proyecto personal, pero sugerencias y feedback son bienvenidos:
 
 ## 📝 Licencia
 
-Este proyecto es de código abierto bajo la licencia MIT.
+Este proyecto es de código abierto.
 
 ---
 
@@ -162,11 +162,11 @@ Este proyecto es de código abierto bajo la licencia MIT.
 
 ---
 
-## 🙏 Agradecimientos
+## 
 
 - Diseño inspirado en portfolios modernos de la industria tech
 - Iconos por [Lucide React](https://lucide.dev/)
 - Imágenes temporales de [Unsplash](https://unsplash.com/)
 
 
-*Última actualización: Noviembre 2024*
+*Última actualización: Noviembre 2025*
